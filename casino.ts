@@ -20,10 +20,4 @@ export class Casino{
         return this;
     }
 
- //   SetRoulette(Roulette){
-  //     return this;
-//}
- //   SetCarps(Craps){
- //   return this;
-//}
 }
